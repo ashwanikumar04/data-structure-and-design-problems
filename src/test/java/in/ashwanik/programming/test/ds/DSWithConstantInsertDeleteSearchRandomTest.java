@@ -1,5 +1,6 @@
-package in.ashwanik.programming.coding.ds;
+package in.ashwanik.programming.test.ds;
 
+import in.ashwanik.programming.coding.ds.DSWithConstantInsertDeleteSearchRandom;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;

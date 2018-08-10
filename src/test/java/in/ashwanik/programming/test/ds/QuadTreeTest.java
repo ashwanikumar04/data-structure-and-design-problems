@@ -1,5 +1,6 @@
-package in.ashwanik.programming.coding.ds;
+package in.ashwanik.programming.test.ds;
 
+import in.ashwanik.programming.coding.ds.QuadTree;
 import org.junit.Test;
 
 import java.util.ArrayList;

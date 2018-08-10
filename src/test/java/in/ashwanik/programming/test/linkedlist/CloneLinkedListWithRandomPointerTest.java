@@ -1,5 +1,6 @@
-package in.ashwanik.programming.coding.linkedlist;
+package in.ashwanik.programming.test.linkedlist;
 
+import in.ashwanik.programming.coding.linkedlist.CloneLinkedListWithRandomPointer;
 import org.junit.Before;
 import org.junit.Test;
 
