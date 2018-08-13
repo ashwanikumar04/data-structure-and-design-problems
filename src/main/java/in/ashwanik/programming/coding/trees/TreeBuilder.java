@@ -2,6 +2,7 @@ package in.ashwanik.programming.coding.trees;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 import java.util.Random;
 
 /**
@@ -13,8 +14,7 @@ public class TreeBuilder {
         return createDynamicTree(arrayList);
     }
 
-
-    public static <T> TreeNode<T> createDynamicTree(ArrayList<T> dataList) {
+    public static <T> TreeNode<T> createDynamicTree(List<T> dataList) {
         Random random = new Random();
         TreeNode<T> root = new TreeNode<>(dataList.get(random.nextInt(dataList.size())));
         root.setLeft(new TreeNode<>(dataList.get(random.nextInt(dataList.size()))));
