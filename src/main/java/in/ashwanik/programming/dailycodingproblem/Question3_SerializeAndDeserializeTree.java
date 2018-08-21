@@ -1,9 +1,15 @@
-package in.ashwanik.programming.coding.trees;
+package in.ashwanik.programming.dailycodingproblem;
+
+import in.ashwanik.programming.coding.trees.TreeNode;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class SerializeAndDeserializeTree {
+/*
+Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s),
+which deserializes the string back into the tree.
+ */
+public class Question3_SerializeAndDeserializeTree {
 
     public String serialize(TreeNode<Integer> root) {
         if (root == null) {
