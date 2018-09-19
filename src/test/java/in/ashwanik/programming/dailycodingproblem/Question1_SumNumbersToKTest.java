@@ -1,4 +1,4 @@
-package in.ashwanik.programming.test.dailycodingproblem;
+package in.ashwanik.programming.dailycodingproblem;
 
 import in.ashwanik.programming.dailycodingproblem.Question1_SumNumbersToK;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package in.ashwanik.programming.test.ds;
+package in.ashwanik.programming.ds;
 
 import in.ashwanik.programming.coding.ds.DSWithConstantInsertDeleteSearchRandom;
 import org.junit.Test;

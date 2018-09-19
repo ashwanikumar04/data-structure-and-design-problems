@@ -1,4 +1,4 @@
-package in.ashwanik.programming.test.tree;
+package in.ashwanik.programming.tree;
 
 import in.ashwanik.programming.dailycodingproblem.Question3_SerializeAndDeserializeTree;
 import in.ashwanik.programming.coding.trees.TreeBuilder;

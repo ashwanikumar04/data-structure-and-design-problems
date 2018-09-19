@@ -1,4 +1,4 @@
-package in.ashwanik.programming.test.arrays;
+package in.ashwanik.programming.arrays;
 
 import in.ashwanik.programming.coding.arrays.MergeKSortedArrays;
 import org.junit.Test;
